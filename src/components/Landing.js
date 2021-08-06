@@ -81,6 +81,24 @@ export default function Album() {
             >
               Equipo 13
             </Typography>
+            <div className={classes.heroButtons}>
+              <Grid container spacing={2} justify="center">
+                <Grid item>
+                  <Link to="/pricing">
+                    <Button variant="contained" color="primary">
+                      Pricing
+                    </Button>
+                  </Link>
+                </Grid>
+                <Grid item>
+                  <Link to="/pricing">
+                    <Button variant="outlined" color="primary">
+                      Pricing
+                    </Button>
+                  </Link>
+                </Grid>
+              </Grid>
+            </div>
           </Container>
         </div>
         <Container className={classes.cardGrid} maxWidth="md">
