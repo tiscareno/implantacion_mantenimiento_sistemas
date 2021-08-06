@@ -1,5 +1,2 @@
-# Implantación y Mantenimiento de Sistemas
-
-Ejercicio práctico CI/CD Pipelines
-
+# implantacion_mantenimiento_sistemas
 Proyecto equipo 13
