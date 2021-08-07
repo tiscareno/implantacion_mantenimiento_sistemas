@@ -4,7 +4,7 @@
 
 Integrantes:
 
-Sandra Leicia Díaz Montejo
-Israel López Tiscareño
-Jahaziel Armando Salas Aguilar
-Brenda Mareli Ruiz Fuenleal
+- Sandra Leicia Díaz Montejo
+- Israel López Tiscareño
+- Jahaziel Armando Salas Aguilar
+- Brenda Mareli Ruiz Fuenleal
