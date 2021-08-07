@@ -1,4 +1,4 @@
-## implantacion_mantenimiento_sistemas
+## Implantacion y Mantenimiento de Sistemas
 
 #Proyecto equipo 13
 
